@@ -1,0 +1,1263 @@
+[09:08/13:34:16] Adobe Reader Protected Mode Logging Initiated 
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \Sessions\1\Windows\ThemeSection
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \Windows\Theme1248435350
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \Sessions\1\Windows\Theme551916576
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:18308:168:WilStaging_02
+[09:08/13:34:17] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\MSCTF.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\kernel.appcore.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\bcryptPrimitives.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenMutant: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \Sessions\1\BaseNamedObjects\CicLoadWinStaWinSta0
+[09:08/13:34:17] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:34:17] NtOpenMutant: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \Sessions\1\BaseNamedObjects\Local\MSCTF.CtfMonitorInstMutexDefault1
+[09:08/13:34:17] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:34:17] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:18308:168:WilStaging_02
+[09:08/13:34:17] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\textinputframework.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\CoreUIComponents.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\CoreMessaging.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\ntmarta.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\CoreMessaging.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\wintypes.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\wintypes.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\wintypes.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\WS2_32.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:34:17] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:34:17] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:34:17] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:18308:168:WilStaging_02
+[09:08/13:34:17] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:34:17] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:18308:168:WilStaging_02
+[09:08/13:34:17] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:34:17] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:34:17] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:34:17] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:34:17] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:34:17] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:34:17] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\BIB.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\MSVCP140.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\VCRUNTIME140.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\SensApi.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\MSVCP140.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\VCRUNTIME140.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\MSVCP140.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\VCRUNTIME140.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\MSVCP140.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\VCRUNTIME140.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\VCRUNTIME140.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenMutant: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \Sessions\1\BaseNamedObjects\Global\ARM Update Mutex
+[09:08/13:34:17] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:34:17] NtOpenMutant: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \Sessions\1\BaseNamedObjects\Global\ARM Update Mutex
+[09:08/13:34:17] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:34:17] NtCreateKey: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real path: \REGISTRY\MACHINE\Software\Adobe
+[09:08/13:34:17] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:34:17] NtCreateKey: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real path: \REGISTRY\MACHINE\SOFTWARE\WOW6432Node\Adobe
+[09:08/13:34:17] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:34:17] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:34:17] name: Local\{C15730E2-145C-4c5e-B005-3BC753F42475}-once-flagAEDPNGMFEIHEAAAA
+[09:08/13:34:17] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:34:17] CreateEvent: STATUS_ACCESS_DENIED
+[09:08/13:34:17] CreateEvent: STATUS_ACCESS_DENIED
+[09:08/13:34:17] name: Local\{C15730E2-145C-4c5e-B005-3BC753F42475}-once-flagAEDPNGMFEIHEAAAA
+[09:08/13:34:17] name: Local\{C15730E2-145C-4c5e-B005-3BC753F42475}-once-flagAEDPNGMFEIHEAAAA
+[09:08/13:34:17] CreateEvent: STATUS_ACCESS_DENIED
+[09:08/13:34:17] name: Local\{C15730E2-145C-4c5e-B005-3BC753F42475}-once-flagAEDPNGMFEIHEAAAA
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\windows.storage.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\Wldp.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \Sessions\1\BaseNamedObjects\windows_shell_global_counters
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtCreateSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \Sessions\1\BaseNamedObjects\windows_shell_global_counters
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:18308:168:WilStaging_02
+[09:08/13:34:17] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:34:17] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:18308:64:WilError_03
+[09:08/13:34:17] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\profapi.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:18308:168:WilStaging_02
+[09:08/13:34:17] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \Sessions\1\BaseNamedObjects\Global\__ComCatalogCache__
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:18308:168:WilStaging_02
+[09:08/13:34:17] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\mscms.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\ColorAdapterClient.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:18308:64:WilError_03
+[09:08/13:34:17] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:34:17] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:18308:168:WilStaging_02
+[09:08/13:34:17] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:34:17] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real_path: \KnownDlls32\TextShaping.dll
+[09:08/13:34:17] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:17] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:17] real path: \??\C:\Users\segovp01\OneDrive - Johnson Matthey\7 - Archivos sueltos\Python\CEIA\Análisis Matemático\analisis_matematico\tp_final\Demostracion.pdf:Zone.Identifier
+[09:08/13:34:17] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:18] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:18] real_path: \KnownDlls32\mswsock.dll
+[09:08/13:34:18] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:18] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:18] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:34:18] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:18] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:18] real_path: \KnownDlls32\Msftedit.dll
+[09:08/13:34:18] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:18] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:18] real_path: \KnownDlls32\Windows.Globalization.dll
+[09:08/13:34:18] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:18] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:18] real_path: \KnownDlls32\Bcp47Langs.dll
+[09:08/13:34:18] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:18] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:18] real_path: \KnownDlls32\bcp47mrm.dll
+[09:08/13:34:18] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:18] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:18] real_path: \KnownDlls32\globinputhost.dll
+[09:08/13:34:18] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:18] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:34:18] name: MSFT.VSA.COM.DISABLE.18308
+[09:08/13:34:18] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:34:18] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:34:18] name: MSFT.VSA.IEC.STATUS.6c736db0
+[09:08/13:34:18] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:34:18] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:18] real_path: \KnownDlls32\dataexchange.dll
+[09:08/13:34:18] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:18] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:18] real_path: \KnownDlls32\d3d11.dll
+[09:08/13:34:18] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:18] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:18] real_path: \KnownDlls32\dcomp.dll
+[09:08/13:34:18] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:18] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:18] real_path: \KnownDlls32\dxgi.dll
+[09:08/13:34:18] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:18] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:18] real_path: \KnownDlls32\twinapi.appcore.dll
+[09:08/13:34:18] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:18] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:18] real_path: \Sessions\1\BaseNamedObjects\4784HWNDInterface:40b22
+[09:08/13:34:18] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:18] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:18] real_path: \Sessions\1\BaseNamedObjects\4784HWNDInterface:40b22
+[09:08/13:34:18] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:18] NtCreateSection: STATUS_ACCESS_DENIED
+[09:08/13:34:18] real_path: \Sessions\1\BaseNamedObjects\4784HWNDInterface:40b22
+[09:08/13:34:18] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:18] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:18] real_path: \Sessions\1\BaseNamedObjects\4784HWNDInterface:40b22
+[09:08/13:34:18] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:18] NtCreateSection: STATUS_ACCESS_DENIED
+[09:08/13:34:18] real_path: \Sessions\1\BaseNamedObjects\4784HWNDInterface:40b22
+[09:08/13:34:18] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:19] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:34:19] real_path: \Sessions\1\BaseNamedObjects\DBWinMutex
+[09:08/13:34:19] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:34:19] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:19] real_path: \Sessions\1\BaseNamedObjects\DBWIN_BUFFER
+[09:08/13:34:19] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:19] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:19] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:34:19] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:19] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:19] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:34:19] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:19] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:19] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:34:19] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:19] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:19] real_path: \Sessions\1\BaseNamedObjects\4784HWNDInterface:20c1a
+[09:08/13:34:19] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:19] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:19] real_path: \Sessions\1\BaseNamedObjects\4784HWNDInterface:20c1a
+[09:08/13:34:19] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:19] NtCreateSection: STATUS_ACCESS_DENIED
+[09:08/13:34:19] real_path: \Sessions\1\BaseNamedObjects\4784HWNDInterface:20c1a
+[09:08/13:34:19] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:19] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:19] real_path: \Sessions\1\BaseNamedObjects\4784HWNDInterface:20c1a
+[09:08/13:34:19] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:19] NtCreateSection: STATUS_ACCESS_DENIED
+[09:08/13:34:19] real_path: \Sessions\1\BaseNamedObjects\4784HWNDInterface:20c1a
+[09:08/13:34:19] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:19] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:34:19] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:34:19] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:34:19] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:19] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:34:19] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:19] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:19] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:34:19] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:19] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:19] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:34:19] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:19] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:34:19] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:34:19] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:34:19] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:34:19] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:34:19] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:34:19] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:19] real_path: \KnownDlls32\ieframe.dll
+[09:08/13:34:19] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:19] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:19] real_path: \KnownDlls32\NETAPI32.dll
+[09:08/13:34:19] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:19] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:19] real_path: \KnownDlls32\WKSCLI.DLL
+[09:08/13:34:19] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:19] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:19] real_path: \Sessions\1\BaseNamedObjects\DBWIN_BUFFER
+[09:08/13:34:19] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:19] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:34:19] name: _AcroPageDraw
+[09:08/13:34:19] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:34:19] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:19] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:34:19] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:19] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:19] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:34:19] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:19] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:19] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:34:19] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:23] Failed to process path:C: error code:87
+[09:08/13:34:23] Failed to process path:C: error code:87
+[09:08/13:34:23] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real_path: \KnownDlls32\propsys.dll
+[09:08/13:34:23] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:23] NtOpenKey: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real path: \REGISTRY\USER\S-1-5-21-4214235732-3082440027-2259958388-125319\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+[09:08/13:34:23] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:34:23] NtOpenKey: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real path: \REGISTRY\USER\S-1-5-21-4214235732-3082440027-2259958388-125319\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+[09:08/13:34:23] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:34:23] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real_path: \Sessions\1\BaseNamedObjects\Local\C:*Users*segovp01*AppData*Local*Microsoft*Windows*Caches*cversions.1
+[09:08/13:34:23] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:23] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real_path: \Sessions\1\BaseNamedObjects\Local\C:*Users*segovp01*AppData*Local*Microsoft*Windows*Caches*cversions.1.ro
+[09:08/13:34:23] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:23] NtOpenKey: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real path: \REGISTRY\USER\S-1-5-21-4214235732-3082440027-2259958388-125319\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+[09:08/13:34:23] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:34:23] NtCreateSection: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real_path: \Sessions\1\BaseNamedObjects\Local\C:*Users*segovp01*AppData*Local*Microsoft*Windows*Caches*cversions.1.ro
+[09:08/13:34:23] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:23] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real_path: \Sessions\1\BaseNamedObjects\Local\C:*Users*segovp01*AppData*Local*Microsoft*Windows*Caches*{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x000000000000007f.db
+[09:08/13:34:23] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:23] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real path: \??\C:\Users\segovp01\AppData\Local\Microsoft\Windows\Caches\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x000000000000007f.db
+[09:08/13:34:23] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:23] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:18308:64:WilError_03
+[09:08/13:34:23] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:34:23] NtOpenKey: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real path: \REGISTRY\USER\S-1-5-21-4214235732-3082440027-2259958388-125319\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+[09:08/13:34:23] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:34:23] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:18308:168:WilStaging_02
+[09:08/13:34:23] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:34:23] Failed to process path:C: error code:87
+[09:08/13:34:23] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real_path: \KnownDlls32\CRYPTSP.dll
+[09:08/13:34:23] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:23] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real_path: \KnownDlls32\rsaenh.dll
+[09:08/13:34:23] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:23] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:23] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real path: \??\C:\Users\segovp01\OneDrive - Johnson Matthey\Desktop\desktop.ini
+[09:08/13:34:23] real_path: \KnownDlls32\bcrypt.dll
+[09:08/13:34:23] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:23] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:23] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real path: \??\C:\Users\segovp01\OneDrive - Johnson Matthey\Desktop\desktop.ini
+[09:08/13:34:23] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:23] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real path: \??\C:\Users\segovp01\OneDrive - Johnson Matthey\Documents\desktop.ini
+[09:08/13:34:23] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:23] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real path: \??\C:\Users\segovp01\OneDrive - Johnson Matthey\Documents\desktop.ini
+[09:08/13:34:23] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:23] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real path: \??\C:\Users\segovp01\Music\desktop.ini
+[09:08/13:34:23] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:23] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real path: \??\C:\Users\segovp01\Music\desktop.ini
+[09:08/13:34:23] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:23] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real path: \??\C:\Users\segovp01\OneDrive - Johnson Matthey\Pictures\desktop.ini
+[09:08/13:34:23] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:23] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real path: \??\C:\Users\segovp01\OneDrive - Johnson Matthey\Pictures\desktop.ini
+[09:08/13:34:23] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:23] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real path: \??\C:\Users\segovp01\Videos\desktop.ini
+[09:08/13:34:23] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:23] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real path: \??\C:\Users\segovp01\Videos\desktop.ini
+[09:08/13:34:23] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:23] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real_path: \KnownDlls32\CRYPT32.dll
+[09:08/13:34:23] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:23] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real path: \??\C:\Users\segovp01\Downloads\desktop.ini
+[09:08/13:34:23] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:23] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real path: \??\C:\Users\segovp01\Downloads\desktop.ini
+[09:08/13:34:23] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:23] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real path: \??\C:\Users\segovp01\OneDrive\desktop.ini
+[09:08/13:34:23] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:23] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:23] real path: \??\C:\Users\segovp01\OneDrive\desktop.ini
+[09:08/13:34:23] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:23] Failed to process path:C: error code:87
+[09:08/13:34:24] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:24] real_path: \KnownDlls32\msi.dll
+[09:08/13:34:24] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:25] Failed to process path:C: error code:87
+[09:08/13:34:25] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \??\C:\Users\segovp01\OneDrive - Johnson Matthey\desktop.ini
+[09:08/13:34:25] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:25] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \??\C:\Users\segovp01\OneDrive - Johnson Matthey\desktop.ini
+[09:08/13:34:25] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:25] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \??\C:\Users\segovp01\OneDrive - Johnson Matthey\desktop.ini
+[09:08/13:34:25] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:25] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \??\C:\Users\segovp01\OneDrive - Johnson Matthey\desktop.ini
+[09:08/13:34:25] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:25] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \??\C:\Users\segovp01\OneDrive - Johnson Matthey\desktop.ini
+[09:08/13:34:25] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:25] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \??\C:\Users\segovp01\OneDrive - Johnson Matthey\desktop.ini
+[09:08/13:34:25] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:25] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:18308:64:WilError_03
+[09:08/13:34:25] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:34:25] NtOpenKey: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \REGISTRY\USER\S-1-5-21-4214235732-3082440027-2259958388-125319\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+[09:08/13:34:25] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:34:25] NtOpenKey: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \REGISTRY\USER\S-1-5-21-4214235732-3082440027-2259958388-125319\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+[09:08/13:34:25] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:34:25] NtOpenKey: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \REGISTRY\USER\S-1-5-21-4214235732-3082440027-2259958388-125319\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+[09:08/13:34:25] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:34:25] NtOpenKey: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \REGISTRY\USER\S-1-5-21-4214235732-3082440027-2259958388-125319\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+[09:08/13:34:25] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:34:25] NtOpenKey: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \REGISTRY\USER\S-1-5-21-4214235732-3082440027-2259958388-125319\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+[09:08/13:34:25] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:34:25] NtOpenKey: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \REGISTRY\USER\S-1-5-21-4214235732-3082440027-2259958388-125319\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+[09:08/13:34:25] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:34:25] NtOpenKey: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \REGISTRY\USER\S-1-5-21-4214235732-3082440027-2259958388-125319\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+[09:08/13:34:25] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:34:25] NtOpenKey: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \REGISTRY\USER\S-1-5-21-4214235732-3082440027-2259958388-125319\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+[09:08/13:34:25] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:34:25] NtOpenKey: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \REGISTRY\USER\S-1-5-21-4214235732-3082440027-2259958388-125319\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+[09:08/13:34:25] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:34:25] NtOpenKey: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \REGISTRY\USER\S-1-5-21-4214235732-3082440027-2259958388-125319\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+[09:08/13:34:25] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:34:25] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \??\C:\Users\segovp01\Searches\desktop.ini
+[09:08/13:34:25] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:25] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \??\C:\Users\segovp01\Searches\desktop.ini
+[09:08/13:34:25] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:25] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \??\C:\Users\segovp01\Contacts\desktop.ini
+[09:08/13:34:25] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:25] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \??\C:\Users\segovp01\Contacts\desktop.ini
+[09:08/13:34:25] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:25] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \??\C:\Users\segovp01\Favorites\desktop.ini
+[09:08/13:34:25] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:25] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \??\C:\Users\segovp01\Favorites\desktop.ini
+[09:08/13:34:25] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:25] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \??\C:\Users\segovp01\Links\desktop.ini
+[09:08/13:34:25] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:25] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \??\C:\Users\segovp01\Links\desktop.ini
+[09:08/13:34:25] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:25] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \??\C:\Users\segovp01\Saved Games\desktop.ini
+[09:08/13:34:25] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:25] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:34:25] real path: \??\C:\Users\segovp01\Saved Games\desktop.ini
+[09:08/13:34:25] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:34:25] Failed to process path:C: error code:87
+[09:08/13:34:26] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:26] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:34:26] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:26] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:26] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:34:26] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:26] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:26] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:34:26] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:26] Invalid path: \Device\HarddiskVolume4\Users\segovp01\AppData\Local\Adobe\Acrobat\DC\
+[09:08/13:34:26] Invalid path: \Device\HarddiskVolume4\Users\segovp01\AppData\Local\Adobe\Acrobat\DC\
+[09:08/13:34:26] Invalid path: \Device\HarddiskVolume4\Users\segovp01\AppData\Local\Adobe\Acrobat\DC\
+[09:08/13:34:27] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:34:27] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:34:27] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:34:27] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:34:27] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:34:27] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:34:27] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:34:27] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:34:27] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:34:27] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:27] real_path: \Sessions\1\BaseNamedObjects\4784HWNDInterface:20c1a
+[09:08/13:34:27] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:27] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:27] real_path: \Sessions\1\BaseNamedObjects\4784HWNDInterface:20c1a
+[09:08/13:34:27] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:27] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:27] real_path: \Sessions\1\BaseNamedObjects\4784HWNDInterface:20c1a
+[09:08/13:34:27] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:27] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:27] real_path: \Sessions\1\BaseNamedObjects\4784HWNDInterface:20c1a
+[09:08/13:34:27] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:27] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:27] real_path: \Sessions\1\BaseNamedObjects\4784HWNDInterface:40b22
+[09:08/13:34:27] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:27] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:27] real_path: \Sessions\1\BaseNamedObjects\4784HWNDInterface:40b22
+[09:08/13:34:27] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:27] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:27] real_path: \Sessions\1\BaseNamedObjects\4784HWNDInterface:40b22
+[09:08/13:34:27] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:27] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:34:27] real_path: \Sessions\1\BaseNamedObjects\4784HWNDInterface:40b22
+[09:08/13:34:27] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:34:27] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:34:27] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:34:27] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:34:27] NtCreateKey: STATUS_ACCESS_DENIED
+[09:08/13:34:27] real path: \REGISTRY\USER\S-1-5-21-4214235732-3082440027-2259958388-125319\SOFTWARE\Adobe\Acrobat Reader\DC\AVGeneral\cRecentFiles
+[09:08/13:34:27] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:34:27] NtCreateKey: STATUS_ACCESS_DENIED
+[09:08/13:34:27] real path: \REGISTRY\USER\S-1-5-21-4214235732-3082440027-2259958388-125319\SOFTWARE\Adobe\Acrobat Reader\DC\AVGeneral\cRecentFiles
+[09:08/13:34:27] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:34:28] Exit Code:1
+[09:08/13:35:57] Adobe Reader Protected Mode Logging Initiated 
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \Sessions\1\Windows\ThemeSection
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \Windows\Theme1248435350
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \Sessions\1\Windows\Theme551916576
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:2788:168:WilStaging_02
+[09:08/13:35:57] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\MSCTF.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\kernel.appcore.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\bcryptPrimitives.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenMutant: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \Sessions\1\BaseNamedObjects\CicLoadWinStaWinSta0
+[09:08/13:35:57] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:35:57] NtOpenMutant: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \Sessions\1\BaseNamedObjects\Local\MSCTF.CtfMonitorInstMutexDefault1
+[09:08/13:35:57] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:35:57] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:2788:168:WilStaging_02
+[09:08/13:35:57] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\textinputframework.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\CoreUIComponents.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\CoreMessaging.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\ntmarta.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\CoreMessaging.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\wintypes.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\wintypes.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\wintypes.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\WS2_32.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:35:57] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:35:57] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:35:57] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:2788:168:WilStaging_02
+[09:08/13:35:57] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:35:57] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:2788:168:WilStaging_02
+[09:08/13:35:57] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:35:57] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:35:57] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:35:57] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:35:57] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:35:57] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:35:57] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\BIB.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\MSVCP140.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\VCRUNTIME140.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\SensApi.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\MSVCP140.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\VCRUNTIME140.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\MSVCP140.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\VCRUNTIME140.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\MSVCP140.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\VCRUNTIME140.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\VCRUNTIME140.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenMutant: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \Sessions\1\BaseNamedObjects\Global\ARM Update Mutex
+[09:08/13:35:57] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:35:57] NtOpenMutant: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \Sessions\1\BaseNamedObjects\Global\ARM Update Mutex
+[09:08/13:35:57] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:35:57] NtCreateKey: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real path: \REGISTRY\MACHINE\Software\Adobe
+[09:08/13:35:57] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:35:57] NtCreateKey: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real path: \REGISTRY\MACHINE\SOFTWARE\WOW6432Node\Adobe
+[09:08/13:35:57] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:35:57] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:35:57] name: Local\{C15730E2-145C-4c5e-B005-3BC753F42475}-once-flagAEDPPBHFEOKAAAAA
+[09:08/13:35:57] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:35:57] CreateEvent: STATUS_ACCESS_DENIED
+[09:08/13:35:57] name: Local\{C15730E2-145C-4c5e-B005-3BC753F42475}-once-flagAEDPPBHFEOKAAAAA
+[09:08/13:35:57] CreateEvent: STATUS_ACCESS_DENIED
+[09:08/13:35:57] CreateEvent: STATUS_ACCESS_DENIED
+[09:08/13:35:57] name: Local\{C15730E2-145C-4c5e-B005-3BC753F42475}-once-flagAEDPPBHFEOKAAAAA
+[09:08/13:35:57] name: Local\{C15730E2-145C-4c5e-B005-3BC753F42475}-once-flagAEDPPBHFEOKAAAAA
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\windows.storage.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\Wldp.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \Sessions\1\BaseNamedObjects\windows_shell_global_counters
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtCreateSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \Sessions\1\BaseNamedObjects\windows_shell_global_counters
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:2788:168:WilStaging_02
+[09:08/13:35:57] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:35:57] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:2788:64:WilError_03
+[09:08/13:35:57] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\profapi.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:2788:168:WilStaging_02
+[09:08/13:35:57] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \Sessions\1\BaseNamedObjects\Global\__ComCatalogCache__
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:2788:168:WilStaging_02
+[09:08/13:35:57] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\mscms.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\ColorAdapterClient.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:2788:64:WilError_03
+[09:08/13:35:57] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:35:57] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:2788:168:WilStaging_02
+[09:08/13:35:57] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:35:57] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real_path: \KnownDlls32\TextShaping.dll
+[09:08/13:35:57] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:57] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:35:57] real path: \??\C:\Users\segovp01\OneDrive - Johnson Matthey\7 - Archivos sueltos\Python\CEIA\Análisis Matemático\analisis_matematico\tp_final\Ejercicio Teórico.pdf:Zone.Identifier
+[09:08/13:35:57] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \KnownDlls32\mswsock.dll
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \KnownDlls32\Msftedit.dll
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \KnownDlls32\Windows.Globalization.dll
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \KnownDlls32\Bcp47Langs.dll
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \KnownDlls32\bcp47mrm.dll
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \KnownDlls32\globinputhost.dll
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:35:59] name: MSFT.VSA.COM.DISABLE.2788
+[09:08/13:35:59] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:35:59] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:35:59] name: MSFT.VSA.IEC.STATUS.6c736db0
+[09:08/13:35:59] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \KnownDlls32\dataexchange.dll
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \KnownDlls32\d3d11.dll
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \KnownDlls32\dcomp.dll
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \KnownDlls32\dxgi.dll
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \KnownDlls32\twinapi.appcore.dll
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70b30
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70b30
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtCreateSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70b30
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70b30
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtCreateSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70b30
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\DBWinMutex
+[09:08/13:35:59] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\DBWIN_BUFFER
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:50bec
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:50bec
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtCreateSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:50bec
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:50bec
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtCreateSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:50bec
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:35:59] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:35:59] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:35:59] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:35:59] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:35:59] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:35:59] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:35:59] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \KnownDlls32\ieframe.dll
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \KnownDlls32\NETAPI32.dll
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \KnownDlls32\WKSCLI.DLL
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\DBWIN_BUFFER
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:35:59] name: _AcroPageDraw
+[09:08/13:35:59] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:35:59] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:35:59] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:35:59] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:36:01] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:36:01] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:36:01] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:36:02] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:36:02] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:36:02] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:36:02] Failed to process path:C: error code:87
+[09:08/13:36:02] Failed to process path:C: error code:87
+[09:08/13:36:02] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real_path: \KnownDlls32\propsys.dll
+[09:08/13:36:02] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:36:02] NtOpenKey: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real path: \REGISTRY\USER\S-1-5-21-4214235732-3082440027-2259958388-125319\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+[09:08/13:36:02] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:36:02] NtOpenKey: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real path: \REGISTRY\USER\S-1-5-21-4214235732-3082440027-2259958388-125319\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+[09:08/13:36:02] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:36:02] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real_path: \Sessions\1\BaseNamedObjects\Local\C:*Users*segovp01*AppData*Local*Microsoft*Windows*Caches*cversions.1
+[09:08/13:36:02] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:36:02] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real_path: \Sessions\1\BaseNamedObjects\Local\C:*Users*segovp01*AppData*Local*Microsoft*Windows*Caches*cversions.1.ro
+[09:08/13:36:02] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:36:02] NtOpenKey: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real path: \REGISTRY\USER\S-1-5-21-4214235732-3082440027-2259958388-125319\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+[09:08/13:36:02] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:36:02] NtCreateSection: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real_path: \Sessions\1\BaseNamedObjects\Local\C:*Users*segovp01*AppData*Local*Microsoft*Windows*Caches*cversions.1.ro
+[09:08/13:36:02] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:36:02] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real_path: \Sessions\1\BaseNamedObjects\Local\C:*Users*segovp01*AppData*Local*Microsoft*Windows*Caches*{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x000000000000007f.db
+[09:08/13:36:02] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:36:02] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real path: \??\C:\Users\segovp01\AppData\Local\Microsoft\Windows\Caches\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x000000000000007f.db
+[09:08/13:36:02] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:36:02] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:2788:64:WilError_03
+[09:08/13:36:02] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:36:02] NtOpenKey: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real path: \REGISTRY\USER\S-1-5-21-4214235732-3082440027-2259958388-125319\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+[09:08/13:36:02] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/13:36:02] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:2788:168:WilStaging_02
+[09:08/13:36:02] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:36:02] Failed to process path:C: error code:87
+[09:08/13:36:02] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real_path: \KnownDlls32\CRYPTSP.dll
+[09:08/13:36:02] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:36:02] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real_path: \KnownDlls32\rsaenh.dll
+[09:08/13:36:02] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:36:02] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real_path: \KnownDlls32\bcrypt.dll
+[09:08/13:36:02] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:36:02] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real path: \??\C:\Users\segovp01\OneDrive - Johnson Matthey\Desktop\desktop.ini
+[09:08/13:36:02] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:36:02] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real path: \??\C:\Users\segovp01\OneDrive - Johnson Matthey\Desktop\desktop.ini
+[09:08/13:36:02] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:36:02] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real path: \??\C:\Users\segovp01\OneDrive - Johnson Matthey\Documents\desktop.ini
+[09:08/13:36:02] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:36:02] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real path: \??\C:\Users\segovp01\OneDrive - Johnson Matthey\Documents\desktop.ini
+[09:08/13:36:02] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:36:02] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real path: \??\C:\Users\segovp01\Music\desktop.ini
+[09:08/13:36:02] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:36:02] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real path: \??\C:\Users\segovp01\Music\desktop.ini
+[09:08/13:36:02] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:36:02] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real path: \??\C:\Users\segovp01\OneDrive - Johnson Matthey\Pictures\desktop.ini
+[09:08/13:36:02] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:36:02] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real path: \??\C:\Users\segovp01\OneDrive - Johnson Matthey\Pictures\desktop.ini
+[09:08/13:36:02] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:36:02] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real_path: \KnownDlls32\CRYPT32.dll
+[09:08/13:36:02] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:36:02] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real path: \??\C:\Users\segovp01\Videos\desktop.ini
+[09:08/13:36:02] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:36:02] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real path: \??\C:\Users\segovp01\Videos\desktop.ini
+[09:08/13:36:02] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:36:02] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real path: \??\C:\Users\segovp01\Downloads\desktop.ini
+[09:08/13:36:02] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:36:02] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real path: \??\C:\Users\segovp01\Downloads\desktop.ini
+[09:08/13:36:02] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:36:02] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real path: \??\C:\Users\segovp01\OneDrive\desktop.ini
+[09:08/13:36:02] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:36:02] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real path: \??\C:\Users\segovp01\OneDrive\desktop.ini
+[09:08/13:36:02] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:36:02] Failed to process path:C: error code:87
+[09:08/13:36:02] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:36:02] real_path: \KnownDlls32\msi.dll
+[09:08/13:36:02] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:36:05] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:36:05] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:36:05] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:36:05] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:36:05] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:36:05] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:36:06] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:36:06] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:36:06] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:36:06] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:36:06] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:36:06] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:36:06] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:36:06] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:36:06] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:36:06] Invalid path: \Device\HarddiskVolume4\Users\segovp01\AppData\Local\Adobe\Acrobat\DC\
+[09:08/13:36:06] Invalid path: \Device\HarddiskVolume4\Users\segovp01\AppData\Local\Adobe\Acrobat\DC\
+[09:08/13:36:06] Invalid path: \Device\HarddiskVolume4\Users\segovp01\AppData\Local\Adobe\Acrobat\DC\
+[09:08/13:36:09] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:36:09] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:36:09] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:36:09] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:36:09] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:36:09] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:36:11] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:36:11] real_path: \KnownDlls32\WININET.dll
+[09:08/13:36:11] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:36:11] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:36:11] name: \SECURITY\LSA_AUTHENTICATION_INITIALIZED
+[09:08/13:36:11] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:36:11] NtCreateSection: STATUS_ACCESS_DENIED
+[09:08/13:36:11] real_path: \Sessions\1\BaseNamedObjects\Local\windows_webcache_counters_{00000000-5d8e-4eed-b3fa-e30684411323}
+[09:08/13:36:11] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:36:11] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:36:11] real_path: \KnownDlls32\ondemandconnroutehelper.dll
+[09:08/13:36:11] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:36:11] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:36:11] real_path: \KnownDlls32\IPHLPAPI.DLL
+[09:08/13:36:11] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:36:11] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:36:11] real_path: \KnownDlls32\WINNSI.DLL
+[09:08/13:36:11] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:36:11] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:36:11] real_path: \KnownDlls32\NSI.dll
+[09:08/13:36:11] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:36:14] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:36:14] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:36:14] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:36:14] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:36:14] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:36:14] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:36:45] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:36:45] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:36:45] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:36:45] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:36:45] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:36:45] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:36:50] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:36:50] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:36:50] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:36:51] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:36:51] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:36:51] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:36:52] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:36:52] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:36:52] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:36:56] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:36:56] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:36:56] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:36:56] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:36:56] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:36:56] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:37:06] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:37:06] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:37:06] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:37:09] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:37:09] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:37:09] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:37:12] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:37:12] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:37:12] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:37:12] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:37:12] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:37:12] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:38:08] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:38:08] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:38:08] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:38:08] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:38:08] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:38:08] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:38:11] Adobe Reader Protected Mode Logging Initiated 
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\Windows\ThemeSection
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Windows\Theme1248435350
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\Windows\Theme551916576
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:12988:168:WilStaging_02
+[09:08/13:38:12] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\MSCTF.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\kernel.appcore.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\bcryptPrimitives.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenMutant: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\CicLoadWinStaWinSta0
+[09:08/13:38:12] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:38:12] NtOpenMutant: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\Local\MSCTF.CtfMonitorInstMutexDefault1
+[09:08/13:38:12] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:38:12] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:12988:168:WilStaging_02
+[09:08/13:38:12] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\textinputframework.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\CoreUIComponents.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\CoreMessaging.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\ntmarta.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\CoreMessaging.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\wintypes.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\wintypes.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\wintypes.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\WS2_32.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:38:12] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:38:12] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:38:12] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:12988:168:WilStaging_02
+[09:08/13:38:12] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:38:12] NtCreateMutant: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\Local\SM0:12988:168:WilStaging_02
+[09:08/13:38:12] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:38:12] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:38:12] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:38:12] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:38:12] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:38:12] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:38:12] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\BIB.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\MSVCP140.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\VCRUNTIME140.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\SensApi.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\MSVCP140.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\VCRUNTIME140.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\MSVCP140.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\VCRUNTIME140.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\MSVCP140.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\VCRUNTIME140.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \KnownDlls32\VCRUNTIME140.dll
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenMutant: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\Global\ARM Update Mutex
+[09:08/13:38:12] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:38:12] NtOpenMutant: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\Global\ARM Update Mutex
+[09:08/13:38:12] Consider modifying policy using this policy rule: MUTANT_ALLOW_ANY
+[09:08/13:38:12] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:38:12] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:38:12] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:38:12] NtCreateFile: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real path: \??\C:\Users\segovp01\OneDrive - Johnson Matthey\7 - Archivos sueltos\Python\CEIA\Análisis Matemático\analisis_matematico\tp_final\Demostración.pdf:Zone.Identifier
+[09:08/13:38:12] Consider modifying policy using these policy rules: FILES_ALLOW_ANY or FILES_ALLOW_DIR_ANY
+[09:08/13:38:12] Exit Code:1
+[09:08/13:38:12] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:38:12] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:38:12] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:38:12] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:38:12] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:38:12] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70cc0
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70cc0
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtCreateSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70cc0
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70cc0
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtCreateSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70cc0
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70d10
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70d10
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtCreateSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70d10
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70d10
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtCreateSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70d10
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:38:12] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:38:12] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:38:12] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:38:12] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:38:12] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:12] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:12] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:38:12] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:13] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:13] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:38:13] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:13] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:13] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:38:13] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:13] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:13] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/13:38:13] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/13:38:14] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:38:14] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:38:14] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:38:15] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:38:15] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:38:15] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:38:17] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:38:17] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:38:17] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:38:19] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:38:19] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:38:19] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:38:20] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:38:20] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:38:20] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:38:23] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:38:23] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:38:23] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:38:23] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/13:38:23] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/13:38:23] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/13:38:32] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/13:38:32] real_path: \KnownDlls32\msimg32.dll
+[09:08/13:38:32] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/14:36:16] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/14:36:16] name: Global\SvcctrlStartEvent_A3752DX
+[09:08/14:36:16] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/14:36:16] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/14:36:16] name: Global\SvcctrlStartEvent_A3752DX
+[09:08/14:36:16] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/14:36:16] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/14:36:16] real_path: \Sessions\1\BaseNamedObjects\Global\F932B6C7-3A20-46A0-B8A0-8894AA421973
+[09:08/14:36:16] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
