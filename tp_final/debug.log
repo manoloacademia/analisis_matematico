@@ -1261,3 +1261,97 @@
 [09:08/14:36:16] NtOpenSection: STATUS_ACCESS_DENIED
 [09:08/14:36:16] real_path: \Sessions\1\BaseNamedObjects\Global\F932B6C7-3A20-46A0-B8A0-8894AA421973
 [09:08/14:36:16] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/15:30:37] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/15:30:37] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/15:30:37] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/15:30:37] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/15:30:37] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/15:30:37] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/15:30:37] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/15:30:37] real_path: \Sessions\1\BaseNamedObjects\SENS Information Cache
+[09:08/15:30:37] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/15:30:39] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/15:30:39] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/15:30:39] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/15:30:40] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/15:30:40] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/15:30:40] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/15:30:41] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/15:30:41] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/15:30:41] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/15:30:41] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/15:30:41] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/15:30:41] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/15:30:41] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/15:30:41] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/15:30:41] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/15:30:41] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/15:30:41] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/15:30:41] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/15:30:41] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/15:30:41] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/15:30:41] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/15:30:41] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/15:30:41] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70d10
+[09:08/15:30:41] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/15:30:41] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/15:30:41] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70d10
+[09:08/15:30:41] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/15:30:41] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/15:30:41] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70d10
+[09:08/15:30:41] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/15:30:41] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/15:30:41] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70d10
+[09:08/15:30:41] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/15:30:41] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/15:30:41] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70cc0
+[09:08/15:30:41] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/15:30:41] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/15:30:41] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70cc0
+[09:08/15:30:41] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/15:30:41] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/15:30:41] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70cc0
+[09:08/15:30:41] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/15:30:41] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/15:30:41] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70cc0
+[09:08/15:30:41] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/15:30:41] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/15:30:41] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/15:30:41] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/15:30:41] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/15:30:41] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/15:30:41] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/15:30:41] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/15:30:41] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:50bec
+[09:08/15:30:41] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/15:30:41] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/15:30:41] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:50bec
+[09:08/15:30:41] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/15:30:41] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/15:30:41] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:50bec
+[09:08/15:30:41] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/15:30:41] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/15:30:41] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:50bec
+[09:08/15:30:41] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/15:30:41] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/15:30:41] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70b30
+[09:08/15:30:41] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/15:30:41] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/15:30:41] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70b30
+[09:08/15:30:41] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/15:30:41] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/15:30:41] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70b30
+[09:08/15:30:41] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/15:30:41] NtOpenSection: STATUS_ACCESS_DENIED
+[09:08/15:30:41] real_path: \Sessions\1\BaseNamedObjects\ae4HWNDInterface:70b30
+[09:08/15:30:41] Consider modifying policy using this policy rule: SECTION_ALLOW_ANY
+[09:08/15:30:41] OpenEvent: STATUS_ACCESS_DENIED
+[09:08/15:30:41] name: Local\1ImmersiveFocusTrackingActiveEvent
+[09:08/15:30:41] Consider modifying policy using these policy rules: EVENTS_ALLOW_ANY
+[09:08/15:30:41] NtCreateKey: STATUS_ACCESS_DENIED
+[09:08/15:30:41] real path: \REGISTRY\USER\S-1-5-21-4214235732-3082440027-2259958388-125319\SOFTWARE\Adobe\Acrobat Reader\DC\AVGeneral\cRecentFiles
+[09:08/15:30:41] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/15:30:41] NtCreateKey: STATUS_ACCESS_DENIED
+[09:08/15:30:41] real path: \REGISTRY\USER\S-1-5-21-4214235732-3082440027-2259958388-125319\SOFTWARE\Adobe\Acrobat Reader\DC\AVGeneral\cRecentFiles
+[09:08/15:30:41] Consider modifying policy using this policy rule: REG_ALLOW_ANY
+[09:08/15:30:42] Exit Code:1
